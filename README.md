@@ -23,7 +23,7 @@ Install homebrew via just pasting below line on terminal:
 * Install allure reports via Homebrew (use Mac terminal):
   `brew install allure`
 * Download Xcode from App Store (This will enable Git on your Macbook)
-* Clone the  [web-automation](https://github.com/elopage/web-automation) repository.
+* Clone the this repository.
 * Open the project on your IDE and let maven build scripts work to download all dependencies.
   _We use [IntelliJ IDEA](https://www.jetbrains.com/idea) as IDE. Please ask your team leader for JetBrains premium account._
 
