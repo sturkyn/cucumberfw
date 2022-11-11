@@ -1,4 +1,4 @@
-# *Welcome to the SCG's Automation Project*
+# *Welcome to the SCG's BDD Automation Project*
 ## This test framework consists of:
 ### Software Language: **Java**
 ### Automation Library: **Selenium**
